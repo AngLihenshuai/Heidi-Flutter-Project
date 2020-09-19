@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "968731074853",
+      "firebase_url": "https://amnesiapuzzle.firebaseio.com",
+      "project_id": "amnesiapuzzle",
+      "storage_bucket": "amnesiapuzzle.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:968731074853:android:baadaf0148607fe996facc",
+          "android_client_info": {
+            "package_name": "com.example.amnesiapuzzle"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "968731074853-fecndchujdd1lf4l503koms9ivrpk0ef.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyBTNSjDO1nFV9bpQZ_MPsY_y1OuZSrIqco"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "968731074853-fecndchujdd1lf4l503koms9ivrpk0ef.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
